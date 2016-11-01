@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Aller bold';
+    src: url('../font/Aller_Bd.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aller display';
+    src: url('../font/AllerDisplay.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aller light';
+    src: url('../font/Aller_Lt.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aller italic';
+    src: url('../font/Aller_It.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aller rg';
+    src: url('../font/Aller_Rg.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
